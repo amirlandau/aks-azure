@@ -51,4 +51,3 @@ variable "agents_tags" {
   description = "(Optional) A mapping of tags to assign to the Node Pool."
   default     = {}
 }
-

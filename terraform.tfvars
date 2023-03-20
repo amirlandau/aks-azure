@@ -15,4 +15,3 @@ agents_size = "Standard_B2s"
 identity_type = "SystemAssigned"
 
 agents_tags = {"Environment" = "Production"}
-
